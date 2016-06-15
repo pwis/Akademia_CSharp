@@ -1,0 +1,8 @@
+--- Aplikacja niepe³na ---
+Aplikacja "Ksi¹¿ka telefoniczna"
+
+Po wpisaniu danych do aplikacji (imiê, nazwisko, adres, telefon), bêdzie mo¿liwoœæ wyszukania danej osoby i wypisania jej danych na ekranie.
+
+
+
+

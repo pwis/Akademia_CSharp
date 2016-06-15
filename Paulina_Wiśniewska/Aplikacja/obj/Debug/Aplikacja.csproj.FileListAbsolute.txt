@@ -26,3 +26,6 @@ D:\Studia II\Akademia C#\projekt\Paulina_Wiśniewska\Aplikacja\obj\Debug\Aplikac
 D:\Studia II\Akademia C#\Projekt_AkademiaC#\Paulina_Wiśniewska\Aplikacja\bin\Debug\Aplikacja.exe.config
 D:\Studia II\Akademia C#\Projekt_AkademiaC#\Paulina_Wiśniewska\Aplikacja\obj\Debug\Aplikacja.exe
 D:\Studia II\Akademia C#\Projekt_AkademiaC#\Paulina_Wiśniewska\Aplikacja\obj\Debug\Aplikacja.pdb
+D:\Studia II\Akademia C#\Projekt_Akademia\Akademia_CSharp\Paulina_Wiśniewska\Aplikacja\bin\Debug\Aplikacja.exe.config
+D:\Studia II\Akademia C#\Projekt_Akademia\Akademia_CSharp\Paulina_Wiśniewska\Aplikacja\obj\Debug\Aplikacja.exe
+D:\Studia II\Akademia C#\Projekt_Akademia\Akademia_CSharp\Paulina_Wiśniewska\Aplikacja\obj\Debug\Aplikacja.pdb
